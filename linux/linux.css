@@ -1,0 +1,84 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+body {
+  margin: auto;
+  padding: 10px;
+  width: 60%;
+}
+.hlavny_nadpis {
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+  padding: 12px;
+  margin-top: -10px;
+  margin-bottom: 80px;
+  background-color: rgb(233, 219, 219);
+  text-align: center;
+  margin-left: -5000px;
+  margin-right: -5000px;
+}
+.hlavny_podnadpis {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+p {
+  font-size: 17px;
+  letter-spacing: 2px;
+  line-height: 22px;
+}
+li {
+  font-size: 17px;
+  letter-spacing: 2px;
+  line-height: 22px;
+}
+.sivy_text {
+  color: rgb(126, 124, 124);
+}
+
+.beadge_fotky {
+  border-radius: 50%;
+  height: 25px;
+  width: 25px;
+  margin-top: +4px;
+  margin-bottom: -10px;
+}
+.meno {
+  color: rgb(0, 0, 0);
+}
+time {
+  color: rgb(0, 0, 0);
+}
+.main_fotka {
+  height: 50px;
+  width: 50px;
+  padding: 5px 5px 5px 5px;
+}
+.meno {
+  margin-top: +25px;
+  margin-bottom: -15px;
+}
+.linux_nadpis {
+  width: 700px;
+}
+.predp_nadpis {
+  padding-top: 27px;
+}
+.predp_odstavec {
+  padding-top: 10px;
+}
+.footer {
+  background-color: rgb(218, 213, 213);
+  font-size: 12px;
+  padding: 50px;
+  text-align: center;
+  color: white;
+  margin-bottom: -12px;
+  margin-left: -5000px;
+  margin-right: -5000px;
+}
